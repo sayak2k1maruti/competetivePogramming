@@ -27,4 +27,4 @@
         - [ ] Python
         - [ ] Java
         
-## Hackarrank
+## Hackerrank
