@@ -25,6 +25,7 @@ Output: false
 ```
 # Template Function : 
 
+ - ## C++:
 ```
 class Solution {
 public:
@@ -32,4 +33,11 @@ public:
         
     }
 };
+```
+
+ - ## Python :
+```
+class Solution:
+    def canPartitionKSubsets(self, nums: List[int], k: int) -> bool:
+        
 ```
