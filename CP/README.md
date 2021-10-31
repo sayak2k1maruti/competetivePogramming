@@ -15,7 +15,7 @@
     - #### Link :  https://www.codechef.com/JUNE21B/problems/BITTUP
     - #### Languages:
         - [X] C++
-        - [ ] Python
+        - [X] Python
         - [ ] Java
         
         
