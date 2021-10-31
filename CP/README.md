@@ -9,7 +9,7 @@
     - #### Link :  https://www.codechef.com/JUNE21B/problems/SHROUTE
     - #### Languages:
         - [X] C++
-        - [ ] Python
+        - [X] Python
         - [ ] Java
 -  ### BITTUP
     - #### Link :  https://www.codechef.com/JUNE21B/problems/BITTUP
