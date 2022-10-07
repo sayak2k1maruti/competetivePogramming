@@ -10,6 +10,7 @@ Find two lines that together with the x-axis form a container, such that the con
 Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container.
+![image](https://user-images.githubusercontent.com/64575577/194596098-801d7786-cd97-4e45-9e9e-e285e3c1a988.png)
 
 ## Example 1
 ```
