@@ -1,0 +1,1820 @@
+[33mcommit 64e81307f6858fcb0d858b9d78d7657300eda387[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aryan Prakash <akiprakash17@gmail.com>
+Date:   Sat Oct 8 22:08:30 2022 +0530
+
+    Added Infix to Potfix Program
+
+[33mcommit ffd8beec91e477580266f4a3004db6181770ef1e[m
+Merge: 136f2d7 8310bd7
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 21:07:30 2022 +0530
+
+    Merge pull request #110 from isaacmtp/main
+    
+    Create int_to_rom.cpp
+
+[33mcommit 136f2d7fd963b044fde481ab14b7c929a53f4419[m
+Merge: 2e2bcd3 54a13a1
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 21:07:06 2022 +0530
+
+    Merge pull request #111 from ShivanshDengla/main
+    
+    Added code for Integer to Roman Using C++
+
+[33mcommit 2e2bcd3446133a54cb3910263fe57b5d0bd7bcdd[m
+Merge: 539fb6b ebb3e01
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 21:05:33 2022 +0530
+
+    Merge pull request #112 from NiharikaSharma18/main
+    
+    adding spaces in string
+
+[33mcommit 539fb6bbd61a83155e00f43bedf6a14a03dde2ef[m
+Merge: 771ef52 c1990c8
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 21:05:00 2022 +0530
+
+    Merge pull request #116 from Prakhar9450/Leetcode_Solution
+    
+    LeetCode Solution
+
+[33mcommit 771ef5238428850e9bd34c93cabd24da9101db41[m
+Merge: b8c1d74 50abc2e
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 20:58:31 2022 +0530
+
+    Merge pull request #115 from diabl0-NEMESIS/patch-1
+    
+    SSA_Solution.cpp
+
+[33mcommit c1990c845ee2a38f55da956fb82666a6207bd1c3[m
+Author: Prakhar Pathak <prakharpathak9450@gmail.com>
+Date:   Sat Oct 8 20:55:47 2022 +0530
+
+    LeetCode Solution
+
+[33mcommit 50abc2e469fe79fbd888e961e05e2cdcdaf96dbe[m
+Author: ABHISHEK KUMAR JHA <55275135+diabl0-NEMESIS@users.noreply.github.com>
+Date:   Sat Oct 8 20:41:26 2022 +0530
+
+    SSA_Solution.cpp
+    
+    My approach for the leetcode problem "Squares of Sorted Array".
+
+[33mcommit b8c1d74245430d5ef6ee83ff0fc7ad12e893307e[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sat Oct 8 20:31:10 2022 +0530
+
+    4Sum Problem added
+
+[33mcommit 8b3fdf099f95675c61e3a969062b05d5a2ff8a59[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 20:01:29 2022 +0530
+
+    Added Letter Combination of a Phone Number
+
+[33mcommit 73fd6e33f9208bc887aa2cbd8666894966f4e231[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sat Oct 8 19:55:54 2022 +0530
+
+    Rearranged files
+
+[33mcommit ebb3e0136a2ff7cbf21ac06366a246bb73bcf7b6[m
+Author: NiharikaSharma18 <89354985+NiharikaSharma18@users.noreply.github.com>
+Date:   Sat Oct 8 18:41:27 2022 +0530
+
+    adding spaces in string
+
+[33mcommit 54a13a126ce6c063272d4e59140049dc9967f845[m
+Merge: 30f340b d5a9a37
+Author: Shivansh Dengla <66008449+ShivanshDengla@users.noreply.github.com>
+Date:   Sat Oct 8 18:40:38 2022 +0530
+
+    Merge pull request #1 from ShivanshDengla/IntegerToRoman
+    
+    Create ShivanshDengla.cpp
+
+[33mcommit d5a9a37c8666858e3737f114a0b9850ac09ec8bd[m
+Author: Shivansh Dengla <66008449+ShivanshDengla@users.noreply.github.com>
+Date:   Sat Oct 8 18:39:56 2022 +0530
+
+    Create ShivanshDengla.cpp
+
+[33mcommit 8310bd7ef7df35ddaababc4a53598c8dd910ef5d[m
+Author: issac5693 <issacmartin5693@gmail.com>
+Date:   Sat Oct 8 18:32:33 2022 +0530
+
+    Create int_to_rom.cpp
+
+[33mcommit 30f340bd4eee0b7177c565a9598fe4805898e9de[m
+Merge: 6421d30 bf30813
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 18:09:40 2022 +0530
+
+    Merge pull request #109 from sayak01/main
+    
+    Added Integer to Roman ISSUE #108
+
+[33mcommit bf30813fc1ce6dfe830be0b5c73a17b30098b170[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Sat Oct 8 18:08:17 2022 +0530
+
+    Added Integer to Roman ISSUE #108
+    
+    Added Integer to Roman ISSUE #108
+
+[33mcommit 6421d30b35c6664d6439ca2644c911ead6a3d775[m
+Merge: 0557af0 e3c8786
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 18:01:47 2022 +0530
+
+    Merge pull request #106 from biswajit150803/num
+    
+    Added number systems conversions folder
+
+[33mcommit 0557af0f7e66c50f87ac1eeb66f3fc2192b5ebd7[m
+Merge: 9d1f7c5 07fdfd1
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 8 18:01:33 2022 +0530
+
+    Merge pull request #107 from mayur1377/main
+    
+    Add files via upload
+
+[33mcommit 07fdfd129ee93e0c1b50d823f5cf64eaec122428[m
+Author: MAYUR <74107137+mayur1377@users.noreply.github.com>
+Date:   Sat Oct 8 12:56:40 2022 +0530
+
+    Add files via upload
+
+[33mcommit e3c878603412d497e44004ba4af1cff1b307358a[m
+Author: Biswajit <biswajitghosh150803@gmail.com>
+Date:   Fri Oct 7 23:40:43 2022 +0530
+
+    Added number systems conversions folder
+
+[33mcommit 9d1f7c54886a4315b25abe8abddf0bd973fbf41e[m
+Merge: b8d3d35 6cc4082
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 23:06:06 2022 +0530
+
+    Merge pull request #105 from mayur1377/main
+    
+    Add files via upload
+
+[33mcommit 6cc4082a8381d9af3ea07203dd2a53bc55745e09[m
+Author: MAYUR <74107137+mayur1377@users.noreply.github.com>
+Date:   Fri Oct 7 22:34:10 2022 +0530
+
+    Add files via upload
+
+[33mcommit b8d3d354cb2257bbc8c5383550c982c26c81b7bc[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 22:30:17 2022 +0530
+
+    Create README.md
+
+[33mcommit e1985d1baf354f99d7b50ea2893361c837e31f22[m
+Merge: 35fe974 835be37
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 21:30:57 2022 +0530
+
+    Merge pull request #104 from sayak01/main
+    
+    Added Container With Most Water ISSUE #103
+
+[33mcommit 835be3744a4c6bb79d8dd4869498e224749549df[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 7 21:28:57 2022 +0530
+
+    Added Container With Most Water ISSUE #103
+    
+    Added Container With Most Water ISSUE #103
+
+[33mcommit 35fe974de520355299942f3b647c0cc67c5246ce[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 21:23:39 2022 +0530
+
+    Update README.md
+
+[33mcommit ced16059d1a39df9abcd38c3987d55095d197e36[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Fri Oct 7 21:22:48 2022 +0530
+
+    Container With Most Water Problem Added
+
+[33mcommit 5b5c5d51f7f0eba22c754380591ec7fe5cd25816[m
+Merge: 5a768a4 d3dcba5
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 18:31:33 2022 +0530
+
+    Merge pull request #102 from Sourjya7/main
+    
+    Longest Palindromic Substring C++
+
+[33mcommit d3dcba5d7957ed864df006311a728057c0f791fd[m
+Author: Sourjya <sourjya7@gmail.com>
+Date:   Fri Oct 7 17:21:35 2022 +0530
+
+    Longest Palindromic Substring C++
+
+[33mcommit 5a768a444e2f2720e3a6c7f5d9244627a69c2162[m
+Merge: 61e51cf 0e34090
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 17:21:28 2022 +0530
+
+    Merge pull request #101 from sayak01/main
+    
+    Added Regular Expression Matching , Issue  #76
+
+[33mcommit 0e34090b45242dd916443a0e014ccc5b628bb3af[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 7 17:19:58 2022 +0530
+
+    Added Regular Expression Matching , Issue  #76
+    
+     Issue #76
+
+[33mcommit 61e51cf68889c7dea0a83a6879737485533467ae[m
+Merge: a42b88e 551ddf1
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 17:01:28 2022 +0530
+
+    Merge pull request #99 from saptarshisarkar20/patch-2
+    
+    solved problem using python programming language
+
+[33mcommit a42b88e7a034bbbb02f3e6ae6960ef65d23ae32b[m
+Merge: ef49885 fb23bb5
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 17:01:17 2022 +0530
+
+    Merge pull request #100 from saptarshisarkar20/patch-3
+    
+    solved problem of logest palindromic substring
+
+[33mcommit fb23bb57352ac2495d7f2bf36fa06407bfb10029[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 7 16:56:37 2022 +0530
+
+    solved problem of logest palindromic substring
+
+[33mcommit 551ddf123415f3a903e606bf2146f336a143199d[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 7 16:54:40 2022 +0530
+
+    solved problem using python programming language
+
+[33mcommit ef498857a24d8b1c8adb551da5b2564a9718fb3f[m
+Merge: 7f658ef 3314663
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 16:21:19 2022 +0530
+
+    Merge pull request #94 from saptarshisarkar20/main
+    
+    solved problem of regular expression matching
+
+[33mcommit 7f658ef45da67ea30bf225f2168d3d50c31e27e2[m
+Merge: 49780dc 9949adc
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 16:21:09 2022 +0530
+
+    Merge pull request #95 from iamssss/patch-4
+    
+    solved regular expression matching
+
+[33mcommit 49780dce8225f2d69f9e42d979817d1bd9ba01e8[m
+Merge: 215ebb9 580c29c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 16:20:59 2022 +0530
+
+    Merge pull request #96 from aluvaja/patch-5
+    
+    solved regular expression matching using python
+
+[33mcommit 215ebb93a2a6fd947e8ca676bfff387bc60b3789[m
+Merge: d72008d 864b29f
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 16:20:47 2022 +0530
+
+    Merge pull request #97 from what-should-be-my-username/patch-7
+    
+    solved the problem of regular expressions matching
+
+[33mcommit d72008dd2d1cfa11684454c72e63089c6494ee0c[m
+Merge: eca5bc5 be21b1d
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 16:20:36 2022 +0530
+
+    Merge pull request #98 from I-am-SS/main
+    
+    solved reg expression matching using python
+
+[33mcommit be21b1db48aa08ac1aaa6319de98edf5889fef9f[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Fri Oct 7 15:54:30 2022 +0530
+
+    solved reg expression matching using python
+    
+    used dp
+
+[33mcommit 864b29fdae36ccec7f156b3ffb7bb49a5f907ea1[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Fri Oct 7 15:45:37 2022 +0530
+
+    solved the problem of regular expressions matching
+    
+    solved using dp and py
+
+[33mcommit 580c29c599fb5a0b7285250e7484d57bc6976591[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Fri Oct 7 15:36:10 2022 +0530
+
+    solved regular expression matching using python
+    
+    python and dp
+
+[33mcommit 9949adc43397a7e9b163fdf3b130ac69ace6ed0b[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Fri Oct 7 14:57:32 2022 +0530
+
+    solved regular expression matching
+
+[33mcommit 331466367d26a2923bb67f77c09ca41a97ec1b03[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 7 13:53:46 2022 +0530
+
+    solved problem
+
+[33mcommit eca5bc5da93d15f77daaca8e3e8f17c27502cc1f[m
+Merge: 12ffc5e 1045236
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:08:23 2022 +0530
+
+    Merge pull request #75 from Meet2020mp/main
+    
+    solved Partition to K Equal Sum Subsets
+
+[33mcommit 12ffc5e41dc406839ef36f8e19e956f7e99313f9[m
+Merge: 0082e06 7c32af3
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:08:15 2022 +0530
+
+    Merge pull request #77 from Shagulka/main
+    
+    Add counting sort algorithm in C++ language
+
+[33mcommit 0082e06f61e1f76398907129afe41253cf1c972b[m
+Merge: 71fc95a d137ee6
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:08:06 2022 +0530
+
+    Merge pull request #81 from lucy2512/main
+    
+    Added Added Longest Palindromic Substring in C++
+
+[33mcommit 71fc95a077d50a84f0a581f9064e3fc9221a1a2a[m
+Merge: cbc671d e16be88
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:07:56 2022 +0530
+
+    Merge pull request #83 from ShinchanTheMaster/main
+    
+    Created Regular Expression Matching in Python Language
+
+[33mcommit cbc671d8d96147668803bed174661419b9973443[m
+Merge: 7a5e121 1bc4e88
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:07:40 2022 +0530
+
+    Merge pull request #88 from saptarshisarkar20/main
+    
+    Solved problem of Longest palindromic Substring
+
+[33mcommit 7a5e121035916bd137e71e1d0ffba8cc5bf6de8c[m
+Merge: f449d97 7e25611
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:07:01 2022 +0530
+
+    Merge pull request #86 from asv02/main
+    
+    Create C++_ solution.cpp
+
+[33mcommit f449d977f1b2c54572a3b3c49b937548da0c5f2e[m
+Merge: 87a4f3c fcd00ef
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:06:51 2022 +0530
+
+    Merge pull request #87 from roushan-rks/main
+    
+    Added roushan-rks.cpp file (5. Longest Palindromic Substring) solution
+
+[33mcommit 87a4f3c79d4de2a8aa4b6d9d11df76f3c7075720[m
+Merge: dc6deb7 110d2d9
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:06:42 2022 +0530
+
+    Merge pull request #89 from iamssss/main
+    
+    solved longest palindromic substring
+
+[33mcommit dc6deb7908631ab76bf44208b7170a6e226e410a[m
+Merge: 0464f0c 4c9f9a2
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:06:34 2022 +0530
+
+    Merge pull request #90 from what-should-be-my-username/main
+    
+    solved longest palindromic substring
+
+[33mcommit 0464f0c4c824c33e9f5ce9d2c67be3a8f4e8c578[m
+Merge: f4a3a69 fc89733
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:06:21 2022 +0530
+
+    Merge pull request #91 from I-am-SS/main
+    
+    solved problem longest palindromic substring
+
+[33mcommit f4a3a694c1c2b629a3ab4e6dec4d4d3a4e44bdcc[m
+Merge: dab163e 65085d6
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 7 12:05:48 2022 +0530
+
+    Merge pull request #92 from sayak01/main
+    
+    Create sayak01.cpp issue #78
+
+[33mcommit 65085d6db7f5bda039968df7ac74e57a55e6814f[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 7 12:02:41 2022 +0530
+
+    Create sayak01.cpp
+
+[33mcommit fc897336d8e98d65b7b381ef08eff5eb633d1de9[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Thu Oct 6 22:11:13 2022 +0530
+
+    solved problem longest palindromic substring
+
+[33mcommit 4c9f9a22c4da25e57f3427196776a9d24b600b20[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Thu Oct 6 21:29:37 2022 +0530
+
+    solved longest palindromic substring
+
+[33mcommit 110d2d96143d856ae7acdb3f3952cc539ac8320c[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Thu Oct 6 21:04:47 2022 +0530
+
+    #solved #lps
+
+[33mcommit ac5376e36ed40ec01f279f6d5a1841ca9cf85279[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Thu Oct 6 20:58:57 2022 +0530
+
+    solved longest palindromic substring
+
+[33mcommit 1bc4e88b17216181e57a659d017e60712c42f434[m
+Author: SS <saptarshi2017cob@gmail.com>
+Date:   Thu Oct 6 20:38:05 2022 +0530
+
+    Solved problem of Regular Expression Matching
+
+[33mcommit 25f5ed683df68a2e884433f6cec175aff60291b3[m
+Author: I_am_SS <saptarshi2017cob@gmail.com>
+Date:   Thu Oct 6 20:32:35 2022 +0530
+
+    Solved problem of Longest palindromic Substring
+
+[33mcommit 4b8031a18f51e7aeb25f3f2198f944bc8d277faf[m
+Author: I_am_SS <saptarshi2017cob@gmail.com>
+Date:   Thu Oct 6 20:20:54 2022 +0530
+
+    solved
+
+[33mcommit fcd00eff8472c8e6fdb5bc452768ff58c95c1a34[m
+Author: Roushan Kumar Singh <roushansingh59227@gmail.com>
+Date:   Wed Oct 5 01:00:02 2022 +0530
+
+    Added roushan-rks.cpp file (5. Longest Palindromic Substring) solution
+
+[33mcommit 7e25611ed0b408a559bff13f16517621f3a48e15[m
+Author: asv02 <96387070+asv02@users.noreply.github.com>
+Date:   Tue Oct 4 17:12:41 2022 +0530
+
+    Create C++_ solution.cpp
+
+[33mcommit dab163e4386f123c7b72fa7697386a6a176bb9d9[m
+Merge: 0604e86 6cb561c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Oct 3 20:43:56 2022 +0530
+
+    Merge pull request #84 from krishnasharma1386/main
+    
+    Regular Expression Matching
+
+[33mcommit 6cb561cf63c36571b6fcc4b6c22eab4a32d3ee75[m
+Author: Krishna Sharma <krishnasharma1386@gmail.com>
+Date:   Mon Oct 3 12:43:14 2022 +0530
+
+    Regular Expression Matching
+
+[33mcommit 7f1ef6219271da53e68e8d8c12a515d848541b90[m
+Author: Krishna Sharma <krishnasharma1386@gmail.com>
+Date:   Mon Oct 3 12:34:49 2022 +0530
+
+    Create 10_regular_xpression_matching
+
+[33mcommit 17d902600d4c7cbbddb3c00af540f6f8bc62e3d4[m
+Author: Krishna Sharma <krishnasharma1386@gmail.com>
+Date:   Mon Oct 3 12:34:10 2022 +0530
+
+    Delete 10_regular_xpression_matching
+
+[33mcommit 6ccd03e25ccacc3e182fe0ada60be4b1bec35d46[m
+Author: Krishna Sharma <krishnasharma1386@gmail.com>
+Date:   Mon Oct 3 12:33:34 2022 +0530
+
+    Create 10_regular_xpression_matching
+
+[33mcommit e16be88be28987a9f8dad8db1370c891ffd8d9d2[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 20:28:12 2022 +0530
+
+    Created Regular Expression Matching code in Python
+
+[33mcommit eb28b09bdeebbd1214680a30d662d9e63cbba320[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 20:25:35 2022 +0530
+
+    Delete ShinchanTheMaster.py
+
+[33mcommit 1df9f4ff766087304b439564876b4837aed0bea4[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 20:02:46 2022 +0530
+
+    Created Regular Expression Matching in Python
+
+[33mcommit d137ee6b59961e4f83827ccf9df13b2368944bff[m
+Author: lucy2512 <mail4parthib@gmail.com>
+Date:   Sun Oct 2 19:57:07 2022 +0530
+
+    Added Longest Palindromic Substring in C++
+
+[33mcommit 02f8e818bc733e4816c35c6c42533999dc110782[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 19:54:41 2022 +0530
+
+    Delete ShinchanTheMaster.java
+
+[33mcommit 6bf1a896393d792b43a8da2778b34fa5fcb02663[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 19:54:29 2022 +0530
+
+    Delete ShinchanTheMaster.py
+
+[33mcommit 8b641cf4ebac41b783cce7bb16cfb9dee245d66d[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 19:53:43 2022 +0530
+
+    Added  Regular Expression Matching Code in Python
+
+[33mcommit 7839fa6413e46d9331f7f6bf6eb884ba7d9f7f95[m
+Author: lucy2512 <mail4parthib@gmail.com>
+Date:   Sun Oct 2 19:37:57 2022 +0530
+
+    Added  Longest Palindromic Substring in C++
+
+[33mcommit fedb8f5b5b39ab73d19cd1b24f44209a6b1201ee[m
+Author: Piyush Sarkar <114865878+ShinchanTheMaster@users.noreply.github.com>
+Date:   Sun Oct 2 19:33:17 2022 +0530
+
+    Added ShinchanTheMaster.java
+
+[33mcommit 0604e8681d3dd3aff6cb35167edc86d61eef10c9[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sun Oct 2 19:10:55 2022 +0530
+
+    File name changed
+
+[33mcommit b69b35b89bb98566028a7414bf8841f341872ece[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sun Oct 2 19:07:18 2022 +0530
+
+    Longest pallindromic Substring Added
+
+[33mcommit 7c32af31b71fc8730543dab0a6aa3e2dfb86d3f5[m
+Author: Shagulka <rob.falls.do@gmail.com>
+Date:   Sun Oct 2 16:29:28 2022 +0300
+
+    Add counting sort algorithm in C++ language
+
+[33mcommit ccb8028ed3d297b02397fd941cb173bc17706040[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sun Oct 2 18:50:51 2022 +0530
+
+    RegularExpressionMatchingProblem Added
+
+[33mcommit 96ba39a9ccab2eaf4a9c52d971aed6faab1079d5[m
+Author: Sayak Das <sayakdas2k1@gmail.com>
+Date:   Sun Oct 2 18:39:09 2022 +0530
+
+    CONTRINURE.md added and README.md edited
+
+[33mcommit b07277839eb7711d29e0c3554ddc92e1908d1c54[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 2 17:18:50 2022 +0530
+
+    Update README.md
+
+[33mcommit 1045236aaefa9a034fc01bc4dd2ee178594088d6[m
+Author: Meetkumar Patel <87077346+Meet2020mp@users.noreply.github.com>
+Date:   Sun Oct 2 15:36:26 2022 +0530
+
+    solved Partition to K Equal Sum Subsets
+    
+    optimized complaxity!!
+
+[33mcommit dc6105b9f23908bc0ea007bc414d99e913b885f2[m
+Merge: 9d059d9 0b19ad5
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Wed May 11 23:21:52 2022 +0530
+
+    Merge pull request #74 from AkshadK7/main
+    
+    Added the Implementation of Bellman_Ford_Algorithm
+
+[33mcommit 0b19ad507902a537f73216f9cb9dc7dfbc1be60b[m
+Author: Akshad Kolhatkar <52818443+AkshadK7@users.noreply.github.com>
+Date:   Mon Nov 1 16:12:13 2021 +0530
+
+    Added the Implementation of Bellman_Ford_Algorithm
+
+[33mcommit 9d059d9d041fb58e18264c1786551f830ad657f8[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Nov 1 14:08:48 2021 +0530
+
+    test
+
+[33mcommit 8557b4ffeab6d95bc4984c68f3c267a099787bd3[m
+Merge: 8ae39a6 d1e95c0
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Nov 1 09:09:19 2021 +0530
+
+    Merge pull request #73 from AkshadK7/main
+    
+    Added the Implementation of KMP Algorithm
+
+[33mcommit d1e95c001cb53df263783904f480a39e6206f02d[m
+Author: Akshad Kolhatkar <52818443+AkshadK7@users.noreply.github.com>
+Date:   Sun Oct 31 19:01:30 2021 +0530
+
+    Rename KMP_Algorithm to KMP_Algorithm.py
+
+[33mcommit 265e90f1abc1fdb3314586f6ed4482ee7e96b8b8[m
+Author: Akshad Kolhatkar <52818443+AkshadK7@users.noreply.github.com>
+Date:   Sun Oct 31 19:01:02 2021 +0530
+
+    Added the Implementation of the KMP_Algorithm
+    
+    KMP_Algorithm for String Pattern Matching
+
+[33mcommit 8ae39a63034bdcd1ee80c752e015b2e5c658fa59[m
+Merge: 0517d8d f474f3e
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 18:14:32 2021 +0530
+
+    Merge pull request #72 from ayushman-25/newcode
+    
+    py code for SHROUTE
+
+[33mcommit f474f3e121678e969e004c43289ad07597c143bd[m
+Author: ayushman-25 <ayushman25@gmail.com>
+Date:   Sun Oct 31 15:54:30 2021 +0530
+
+    changed README for Codechef Solutions
+
+[33mcommit c54fea5ddd83330e908304790bed12590cb56665[m
+Author: ayushman-25 <ayushman25@gmail.com>
+Date:   Sun Oct 31 15:52:48 2021 +0530
+
+    py code for SHROUTE
+
+[33mcommit 0517d8d8350913ea7e4ba0a2df487e5e3f983d0e[m
+Merge: 64b10cd c0cf149
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 10:30:27 2021 +0530
+
+    Merge pull request #70 from AkshadK7/main
+    
+    Added the implementation of N_Queens_Algorithm
+
+[33mcommit 64b10cd87c5c7183e6e84681fde6a5d861715780[m
+Merge: 9295196 17030e2
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 10:30:18 2021 +0530
+
+    Merge pull request #71 from ayushman-25/newcode
+    
+    py code for BITTUP, solves #33
+
+[33mcommit 17030e2d53e108ca0fdfa460d5c9218b22910823[m
+Author: ayushman-25 <ayushman25@gmail.com>
+Date:   Sun Oct 31 03:03:36 2021 +0530
+
+    py code for BITTUP, solves #33
+
+[33mcommit c0cf1498f67c613a8b4b5e34ac04af9955cccec5[m
+Author: Akshad Kolhatkar <52818443+AkshadK7@users.noreply.github.com>
+Date:   Sun Oct 31 02:53:13 2021 +0530
+
+    Added the implementation of N_Queens_Algorithm
+
+[33mcommit 92951964f47133fec359d922fa6909d9082a6492[m
+Merge: 129b088 2fa17aa
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 02:18:54 2021 +0530
+
+    Merge pull request #66 from codewithrohan/patch-1
+    
+    Create Prims_algo.cpp
+
+[33mcommit 129b0882f31ffb943c335b01dd05424effaea191[m
+Merge: 1d53fad 0c6be80
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 02:18:43 2021 +0530
+
+    Merge pull request #67 from poojaagrawal134/main
+    
+    Code for Partition to K Equal Sum Subsets
+
+[33mcommit 1d53fad6ba0d56e325e1daf15f33e6aa8ead7d21[m
+Merge: c1b61ce 7bdcf93
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 02:18:32 2021 +0530
+
+    Merge pull request #68 from Cronus1007/prob-4
+    
+    solved problem 4
+
+[33mcommit c1b61cea35e4d4c8989be292a6199479e13e5316[m
+Merge: 49ed002 bee707a
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 31 02:18:10 2021 +0530
+
+    Merge pull request #69 from sd704/main
+    
+    Folder Learning DSA with Python added
+
+[33mcommit bee707aa2a621c68cc1313bc9b36eb093a185c8f[m
+Author: Sagar Dutta <duttas874@gmail.com>
+Date:   Sat Oct 30 21:54:08 2021 +0530
+
+    Edit_Distance added
+
+[33mcommit f5117b8443a6d69fe2cc19660e186e2370acfb56[m
+Author: Sagar Dutta <duttas874@gmail.com>
+Date:   Sat Oct 30 21:46:21 2021 +0530
+
+    Binomial_Coefficient using Python added
+
+[33mcommit 25ec5ccba24f2b64809adcc1d0a40be5f2555b45[m
+Author: Sagar Dutta <duttas874@gmail.com>
+Date:   Sat Oct 30 21:39:45 2021 +0530
+
+    Folder Learning DSA with Python added
+
+[33mcommit 7bdcf9351916b4d950c510ebc4c4da6c22adf3c6[m
+Author: Cronus1007 <lit2019058@iiitl.ac.in>
+Date:   Wed Oct 20 15:27:33 2021 +0530
+
+    solved problem 4
+
+[33mcommit 0c6be803af541a657fc7d7031f1a8a80ee00de4b[m
+Author: pooja agrawal <pooja.agrawal@austere.systems>
+Date:   Mon Oct 18 17:22:45 2021 +0530
+
+    Code for Partition to K Equal Sum Subsets
+
+[33mcommit 2fa17aa452ce4c89dd26a66f311870d98b661a69[m
+Author: Rohan Singh Rathore <rohansinghrathore00@gmail.com>
+Date:   Sun Oct 17 18:49:13 2021 +0530
+
+    Create Prims_algo.cpp
+
+[33mcommit 49ed0023020203432ed9aa1f9c5d470d6fe00aec[m
+Merge: 6c4cd4b 559f56b
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 17 18:47:39 2021 +0530
+
+    Merge pull request #65 from ayushagarwal28/patch-1
+    
+    Create 01-matrix.cpp
+
+[33mcommit 559f56b5edba54cc924efb22ca48d7f3a3944dd4[m
+Author: Ayush Agarwal <simplyayush28@gmail.com>
+Date:   Sun Oct 17 02:46:53 2021 +0530
+
+    Create 01-matrix.cpp
+
+[33mcommit 6c4cd4ba9575686a43188526b7c3dc8de5fdcc9c[m
+Merge: c90b356 6469480
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Oct 11 15:56:20 2021 +0530
+
+    Merge pull request #64 from abhijeet-crypto/main
+    
+    Longest Substring Without Repeating Characters
+
+[33mcommit 6469480dca2d317331a41d97e74a298df2f4ca21[m
+Author: Abhijeet <anandabhijeet098@gmail.com>
+Date:   Mon Oct 11 15:47:27 2021 +0530
+
+    Longest Substring Without Repeating Characters
+
+[33mcommit c90b35674aab73e3b967838e547253799cc84bd2[m
+Merge: 253c85f 909b91c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Oct 11 15:42:31 2021 +0530
+
+    Merge pull request #63 from Dibyendu70/main
+    
+    Create Dibyendu70.cpp Isuue #33
+
+[33mcommit 909b91c3512a8af5bb280f11a43fcd94a5e7fbdd[m
+Author: Dibyendu70 <92266614+Dibyendu70@users.noreply.github.com>
+Date:   Mon Oct 11 15:40:07 2021 +0530
+
+    Create Dibyendu70.cpp
+
+[33mcommit 253c85f76a24ebb6aaf28533730f1332801a06b3[m
+Merge: 681c6a9 95d31a2
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Mon Oct 11 15:37:36 2021 +0530
+
+    Merge pull request #62 from Dibyendu70/main
+    
+    Added Knapsack.cpp
+
+[33mcommit 95d31a2b939e12f4f0c98849ce79b8154ab70ab5[m
+Author: Dibyendu70 <92266614+Dibyendu70@users.noreply.github.com>
+Date:   Mon Oct 11 15:35:55 2021 +0530
+
+    Create Knapsack.cpp
+
+[33mcommit 681c6a989799ec922668fbfa1983bb42a4dcda37[m
+Merge: 1449aa3 42aa49a
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 10 22:09:20 2021 +0530
+
+    Merge pull request #61 from Dibyendu70/main
+    
+    Added subsetSum.cpp
+
+[33mcommit 42aa49aea40d7f033949d937c1f4a25af7a57eff[m
+Author: Dibyendu70 <92266614+Dibyendu70@users.noreply.github.com>
+Date:   Sun Oct 10 22:08:28 2021 +0530
+
+    Added subsetSum.cpp
+
+[33mcommit 1449aa304df322949fb2cc16a8bf4069ec70ca1b[m
+Merge: 9682a13 442451a
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 10 22:05:50 2021 +0530
+
+    Merge pull request #60 from Dibyendu70/main
+    
+    competetivePogramming / CP /README.md is Updated by @Dibyendu70
+
+[33mcommit 442451a6f510ecde98a7b7039b9ee7663408b30e[m
+Author: Dibyendu70 <92266614+Dibyendu70@users.noreply.github.com>
+Date:   Sun Oct 10 22:04:04 2021 +0530
+
+    competetivePogramming / CP /README.md is Updated
+
+[33mcommit 9682a13ddbb5eaf4946b629851ba870879de0f66[m
+Merge: aec31be 99ae19c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Thu Oct 7 17:56:16 2021 +0530
+
+    Merge pull request #58 from itsmnsi/main
+    
+    Added  BFS.cpp by @itsmnsi
+
+[33mcommit aec31be47bd8c2ae514f8c33e76753714416ac53[m
+Merge: 9d29097 9bfe8b7
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Thu Oct 7 17:55:39 2021 +0530
+
+    Merge pull request #59 from Harsh1617/main
+    
+    Added ReversingQueue.cpp by @Harsh1617
+
+[33mcommit 9bfe8b75a57a40152ae4aa551bdd782c177153e8[m
+Author: Harsh1617 <79579692+Harsh1617@users.noreply.github.com>
+Date:   Thu Oct 7 12:24:23 2021 +0530
+
+    Create ReversingQueue.cpp
+
+[33mcommit 99ae19c31aee1d3a35ed1075dbb8595566d23639[m
+Author: Manasi Patil <36513491+itsmnsi@users.noreply.github.com>
+Date:   Thu Oct 7 12:19:06 2021 +0530
+
+    Create BFS.cpp
+
+[33mcommit 9d290974ef5bce6f62d5faa2729a4140ae453ad8[m
+Merge: 0c47087 6cf0fe3
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 19:50:05 2021 +0530
+
+    Merge pull request #57 from theaures/patch-1
+    
+    Added Create Slidingwindow.cpp by @theaures
+
+[33mcommit 6cf0fe37196d9fb200a7ffce1ec5910b0c32332c[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 19:49:26 2021 +0530
+
+    Rename Slidingwindow.cpp to C++/Slidingwindow.cpp
+    
+    Moved to correct file
+
+[33mcommit a0a2f49fff0b0ca65e06f8d3ed165ac97085280c[m
+Author: theaures <91782687+theaures@users.noreply.github.com>
+Date:   Sun Oct 3 18:02:54 2021 +0530
+
+    Create Slidingwindow.cpp
+
+[33mcommit 0c47087cf11d2ef8336da904fe7d25e1365010cf[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 18:01:34 2021 +0530
+
+    Update README.md
+
+[33mcommit 3c48d3a1a95b0c100dde6d5937de915ea0daf826[m
+Merge: 1fd7c0a d6cf128
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 13:14:10 2021 +0530
+
+    Merge pull request #54 from Harsh1617/main
+    
+    Added HeapSort.cpp by @Harsh1617
+
+[33mcommit d6cf1289874cebbf0d94d7c98db81bf4bf462e94[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 13:13:24 2021 +0530
+
+    Rename HeapSort.cpp to Harsh1617_HeapSort.cpp
+
+[33mcommit 1fd7c0a5bf767d100234ffee9112bc727760d92c[m
+Merge: 2889363 64bf724
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 13:12:05 2021 +0530
+
+    Merge pull request #56 from Aaryan0424/main
+    
+    Solved issue #10
+
+[33mcommit 288936301a92252c37532511aee4f29355fe6fa7[m
+Merge: ae8d704 edb1b4a
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 13:09:56 2021 +0530
+
+    Merge pull request #55 from itsmnsi/main
+    
+    Added DFS.cpp by @itsmnsi
+
+[33mcommit 64bf724f7b1541debfd3ee14b5f5b6dd981a25ca[m
+Author: Aaryan0424 <77140684+Aaryan0424@users.noreply.github.com>
+Date:   Sun Oct 3 13:06:04 2021 +0530
+
+    Updated File extension
+
+[33mcommit edb1b4a01ce0a266faf35da0c9548c7cf4b802f7[m
+Author: Manasi Patil <36513491+itsmnsi@users.noreply.github.com>
+Date:   Sun Oct 3 12:35:57 2021 +0530
+
+    Create DFS.cpp
+
+[33mcommit d94c493f15e07403f54b2c7132cb5b477cae96dd[m
+Author: Aaryan0424 <77140684+Aaryan0424@users.noreply.github.com>
+Date:   Sun Oct 3 12:35:22 2021 +0530
+
+     solution to issue sayak2k1maruti#10
+
+[33mcommit ade16170631eaab917b87179f30ca95f632d77e0[m
+Author: Harsh1617 <79579692+Harsh1617@users.noreply.github.com>
+Date:   Sun Oct 3 12:08:07 2021 +0530
+
+    Create ShellSort.cpp
+
+[33mcommit af7a1d85fcd0977346622b28b5006c280f9d6cb6[m
+Author: Harsh1617 <79579692+Harsh1617@users.noreply.github.com>
+Date:   Sun Oct 3 12:05:02 2021 +0530
+
+    Create HeapSort.cpp
+
+[33mcommit ae8d704a4413e2420b05a974dc25d9b8dbaf91fa[m
+Merge: cbce03f 1f84112
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:56:28 2021 +0530
+
+    Merge pull request #53 from Harsh1617/main
+    
+    Create LinearSearch.cpp
+
+[33mcommit 1f8411293912614031b4469c4a116b92da2265de[m
+Author: Harsh1617 <79579692+Harsh1617@users.noreply.github.com>
+Date:   Sun Oct 3 11:43:36 2021 +0530
+
+    Create LinearSearch.cpp
+
+[33mcommit cbce03f7884d7e64f03a7e9d7bc8e143aa8eea67[m
+Merge: 3bcda3d 53dbe7c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:42:16 2021 +0530
+
+    Merge pull request #47
+
+[33mcommit 3bcda3db4fec98e3894bc90e79a0409ef9261821[m
+Merge: 4c3b66b 732df74
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:41:58 2021 +0530
+
+    Merge pull request #48 from what-should-be-my-username/patch-2
+    
+    solved in js thanks for accepting , have a good day 😘
+
+[33mcommit 4c3b66b431a4bb55501608e05afb935a6890d81f[m
+Merge: d742772 047dc05
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:41:46 2021 +0530
+
+    Merge pull request #49 from/patch-3
+
+[33mcommit d742772e5e6572f41360920df3c118df1f8b5283[m
+Merge: 6f26c9a 4dc00ab
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:40:02 2021 +0530
+
+    Merge pull request #51 from what-should-be-my-username/patch-5
+
+[33mcommit 6f26c9ad906086fb5fc7a4d95d302a9f8f435f7b[m
+Merge: 3a48a81 cf6cbb8
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:39:28 2021 +0530
+
+    Merge pull request #50 from what-should-be-my-username/patch-4
+
+[33mcommit 4dc00ab7f4b09a1dc68ba6337a1f82fb3e304606[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Sun Oct 3 11:39:24 2021 +0530
+
+    Create 3wew.cpp
+
+[33mcommit cf6cbb89c71e103687b9000fc37c78277a5b703f[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Sun Oct 3 11:38:34 2021 +0530
+
+    --------------------------------------- :) -------------------------
+
+[33mcommit 047dc0577e0b80cb7b140c6843d97c4fc40335c5[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Sun Oct 3 11:31:35 2021 +0530
+
+    slolved 🤩🤩🤩🤩
+
+[33mcommit 732df74062f7b0bee988a1d5ef1bbcc6493fa220[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Sun Oct 3 11:29:42 2021 +0530
+
+    solved in js thanks for accepting , have a good day 😘
+
+[33mcommit 53dbe7cbcaacc03be0e20ed038a5de3f232636f5[m
+Author: what-should-be-my-username <91818623+what-should-be-my-username@users.noreply.github.com>
+Date:   Sun Oct 3 11:27:11 2021 +0530
+
+    please accept to give a chance to win
+
+[33mcommit 3a48a81211c690d35218f477705c8e793861acac[m
+Merge: 0cdcce4 7f4f4e4
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sun Oct 3 11:27:03 2021 +0530
+
+    Merge pull request #46 from Harshgupta5901/main
+    
+    Create Harshgupta5901.py
+
+[33mcommit 7f4f4e44eb9cfb0ac02c0f5522504e43e56311c6[m
+Author: Harshgupta5901 <75782910+Harshgupta5901@users.noreply.github.com>
+Date:   Sat Oct 2 22:13:46 2021 +0530
+
+    Create Harshgupta5901.py
+
+[33mcommit 0cdcce4a37e49f74182e0247aba5c85ea660acfa[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 21:52:54 2021 +0530
+
+    Delete Longest sting without repeated character.cpp
+
+[33mcommit 1b8d9ac392f907e12e8059cc6a2d9515334cae40[m
+Merge: 2814fa0 f89528f
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:41:49 2021 +0530
+
+    Merge pull request #39 from Nishkarsh-Gupta/main
+    
+    Create Longest sting without repeated character.cpp
+
+[33mcommit 2814fa05e79a78e8edec9fac4407c414d9593e57[m
+Merge: 75aba24 a5806f9
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:25:18 2021 +0530
+
+    Merge pull request #38 from Supratim2000/main
+    
+    Count Complete Tree Nodes Added by @Supratim2000
+
+[33mcommit 75aba2464aab33ee2f57fec2fd32fda38f8b71cd[m
+Merge: 870f68b 7abaf90
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:12:27 2021 +0530
+
+    Merge pull request #43 from I-am-SS/patch-4
+    
+    God will be happy if you accept this :)
+
+[33mcommit 870f68b634036955e6faf651525a7c65cc4224d9[m
+Merge: bd6f0ea fe134c9
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:10:20 2021 +0530
+
+    Merge pull request #40 from I-am-SS/patch-1
+    
+    done solved pls accept
+
+[33mcommit bd6f0ea2e2e69d8b036f68394459ff07b8945006[m
+Merge: 578e527 9b1a489
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:10:12 2021 +0530
+
+    Merge pull request #41 from I-am-SS/patch-2
+    
+    solved this issue requesting to accept
+
+[33mcommit 578e527bc1ef7049de98e5fc83c690b3b1a5b787[m
+Merge: 21f04db 2a68b06
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:10:00 2021 +0530
+
+    Merge pull request #42 from I-am-SS/patch-3
+    
+    solved accepting this will help me to gain confidence 😊
+
+[33mcommit 21f04db74459ef69b6e1776977aa4a297e84b36e[m
+Merge: 2169257 5bfad56
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 14:09:17 2021 +0530
+
+    Merge pull request #44 from I-am-SS/patch-5
+    
+    wish you a very happy pujo , may all your dreams come true
+
+[33mcommit 5bfad56fa57530d281b77b01676e7977f5bcfd35[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Sat Oct 2 12:46:56 2021 +0530
+
+    wish you a very happy pujo , may all your dreams come true
+
+[33mcommit 7abaf90126db304899755adb5cfcca83dab0697a[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Sat Oct 2 12:45:50 2021 +0530
+
+    God will be happy if you accept this :)
+
+[33mcommit 2a68b065f2bf17e6aa7858c15f9348be2d00feeb[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Sat Oct 2 12:44:22 2021 +0530
+
+    solved accepting this will help me to gain confidence 😊
+
+[33mcommit 9b1a4892bdc414baf7f0caa9b18a86cdfbd7f631[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Sat Oct 2 12:42:24 2021 +0530
+
+    solved this issue
+
+[33mcommit fe134c9f970179998a886c09508b050e348a02c5[m
+Author: I-am-SS <91775349+I-am-SS@users.noreply.github.com>
+Date:   Sat Oct 2 12:41:07 2021 +0530
+
+    done solved pls accept
+
+[33mcommit 2169257b4c03c4fafbae06838d54c8f704db9fe9[m
+Merge: 7d24814 917aa29
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 01:16:24 2021 +0530
+
+    Merge pull request #32 from iamssss/main
+    
+    solved by ss
+
+[33mcommit f89528f9310a871ea503b70bea069cfcd0428e51[m
+Author: _keen <70911700+Nishkarsh-Gupta@users.noreply.github.com>
+Date:   Sat Oct 2 01:11:39 2021 +0530
+
+    Create Longest sting without repeated character.cpp
+    
+    I have added the code for the above.
+
+[33mcommit a5806f9465d511984a76f433aa9f685ccde313f4[m
+Author: Supratim Bhattacharjee <pikucode15@gmail.com>
+Date:   Sat Oct 2 01:04:14 2021 +0530
+
+    Count Complete Tree Nodes
+
+[33mcommit 7d248141c3dba28014061d9c7359a6a82d741f22[m
+Merge: b207aa9 1afb16b
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:59:48 2021 +0530
+
+    Merge pull request #37 from Nishkarsh-Gupta/main
+    
+    Create DAREA.cpp
+
+[33mcommit 1afb16bd01418893a205f8fa7dd3544e0ec6f49b[m
+Author: _keen <70911700+Nishkarsh-Gupta@users.noreply.github.com>
+Date:   Sat Oct 2 00:59:02 2021 +0530
+
+    Create PythonSolution.py
+    
+    Here is the python solution for the above problem.
+
+[33mcommit af850a7045e8f61fb8988787a985ad163a9eab20[m
+Author: _keen <70911700+Nishkarsh-Gupta@users.noreply.github.com>
+Date:   Sat Oct 2 00:54:32 2021 +0530
+
+    Create DAREA.cpp
+    
+    I have added the code for the required question . please merge it.
+
+[33mcommit b207aa9a2caee1365393bf485c4fa5e59929f792[m
+Merge: 9d8e2f8 e1cf01d
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:53:51 2021 +0530
+
+    Merge pull request #25 from saptarshisarkar20/patch-1
+
+[33mcommit 9d8e2f836c3a7a75ddc24c17b223bcfe68e6c36f[m
+Merge: 5b89bec 6c75890
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:50:22 2021 +0530
+
+    Merge pull request #34 from iamssss/patch-1
+    
+    done
+
+[33mcommit 5b89bec8110cb5981ceff35dfaf03c7ebc4057ba[m
+Merge: 4729851 7d22962
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:49:42 2021 +0530
+
+    Merge pull request #35 from iamssss/patch-2
+    
+    odne alos this
+
+[33mcommit 4729851b628b6f4a2c34d3438f939c8b0336b132[m
+Merge: 4a24e4e 5dd2c7b
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:49:23 2021 +0530
+
+    Merge pull request #36 from iamssss/patch-3
+    
+    sonde
+
+[33mcommit 4a24e4e25521b04a3a275c3ab0f0abafaf5864f0[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:47:25 2021 +0530
+
+    Delete CP/CodeChef/BITTUP/#include <bits/stdc++.h> using namespace std; #define ll long long int  void solve() {      }  int main() { directory
+
+[33mcommit 5dd2c7bb5db6eebdc62b2e216690de99d9689373[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Sat Oct 2 00:46:44 2021 +0530
+
+    sonde
+
+[33mcommit 7d229629448d66d36071d5da5a5730145752590e[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Sat Oct 2 00:46:04 2021 +0530
+
+    odne alos this
+
+[33mcommit 6c758901dfa05dbb79fe89c7dace8b714424eb77[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Sat Oct 2 00:45:24 2021 +0530
+
+    done
+
+[33mcommit 917aa2985de59bfe94fadacc4435446f7e41075c[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Sat Oct 2 00:41:51 2021 +0530
+
+    solved
+
+[33mcommit 4658d17bf4d850efcf90b18f192a678e5c9d27f6[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Sat Oct 2 00:40:51 2021 +0530
+
+    solved by ss
+
+[33mcommit c952277824e2cb8832c3addf2b165a14eb67090c[m
+Merge: 7101d04 2cc7a3e
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:38:07 2021 +0530
+
+    Merge pull request #28 from aluvaja/patch-3
+    
+    solved issue
+
+[33mcommit 7101d04db7e63c3d4793a9dc48f99480156d3064[m
+Merge: e5cd573 bce4ccc
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:37:48 2021 +0530
+
+    Merge pull request #29 from aluvaja/patch-4
+    
+    commented
+
+[33mcommit e5cd573f8cb59446a241c7c20f8766db9ec0622e[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:36:49 2021 +0530
+
+    solved (#30)
+
+[33mcommit f5f3ce4178837ee9c3e41e04364f0c51023a9441[m
+Merge: d9f757e e3ffcfe
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:36:18 2021 +0530
+
+    Merge pull request #27 from aluvaja/patch-2
+    
+    solved by aluvaja
+
+[33mcommit d9f757e1beb5b0ffda0296cca5b903858d213366[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:35:38 2021 +0530
+
+    BITTUP
+    
+    Added problem Bitwise Tuples
+
+[33mcommit bce4ccc70d77259d0bae100665459cc6986449d5[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:28:05 2021 +0530
+
+    commented
+
+[33mcommit 2cc7a3ea68b02b5d4f7fbe425daee7b4362bb049[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:27:05 2021 +0530
+
+    solved issue
+
+[33mcommit 755aba4f5044c6cd63b264e7ec1ef54db4e44fd5[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Sat Oct 2 00:27:01 2021 +0530
+
+    Create README.md
+
+[33mcommit e3ffcfe1618273e1dfa1d4fc085a483c9eb10b97[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:25:34 2021 +0530
+
+    solved by aluvaja
+
+[33mcommit c4543be9514c23b47a329cd194429916f8accda7[m
+Merge: 67f5f9c 7e832dd
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:25:25 2021 +0530
+
+    Merge pull request #26 from aluvaja/patch-1
+    
+    issue solved
+
+[33mcommit 7e832ddf8386c5e1c975daa97bf7eff5dc91b948[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:22:18 2021 +0530
+
+    issue solved
+
+[33mcommit 67f5f9cf7934b05795b26425da4e7d8b8add7d12[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:20:41 2021 +0530
+
+    Update README.md
+
+[33mcommit e1cf01d19565812f38c6c377cabe38b1716517da[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Sat Oct 2 00:19:44 2021 +0530
+
+    done
+
+[33mcommit 98ac7af528d23c88dd4717aee699e782e8310b71[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:19:23 2021 +0530
+
+    Delete lcswrc.cpp
+
+[33mcommit a74ee870be5eaa06145e5433596db738baeb0b5f[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:18:34 2021 +0530
+
+    Delete Longest-Substring-Without-Repeating-Characters.cpp
+
+[33mcommit 26276bf9e8254dd9f34ec1fe3fbe0a19a6e77deb[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:18:20 2021 +0530
+
+    Delete Longest Substring Without Repeating Characters.cpp
+
+[33mcommit 6cc79ca63d6d09f5245e41e17c7390f3dac4e041[m
+Merge: 821a80f 4910c30
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:17:03 2021 +0530
+
+    Merge pull request #24 from saptarshisarkar20/main
+    
+    solved vaui
+
+[33mcommit 821a80f6b0f61368d7e1e4b8eedaaecab676d62d[m
+Merge: 304e18e d526b05
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:16:14 2021 +0530
+
+    Merge pull request #23 from Sayak-Rana/main
+    
+    LCS Dp solution in C++ added
+
+[33mcommit 4910c307390b4aab9e941840c69e7f11c8851846[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Sat Oct 2 00:15:06 2021 +0530
+
+    solved vaui
+
+[33mcommit 304e18ee85950a0fdc2a5d7977db44ca5b4caba0[m
+Merge: 0040b7d 612324d
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:14:58 2021 +0530
+
+    Merge pull request #22 from saptarshisarkar20/main
+
+[33mcommit d526b05454f36ae40a7a01f5f8105adbe0e81c82[m
+Author: Sayak-Rana <72291718+Sayak-Rana@users.noreply.github.com>
+Date:   Sat Oct 2 00:14:10 2021 +0530
+
+    LCS Dp solution in C++ added
+
+[33mcommit 612324d337daf1d0a3ff134cda7371e8b9e6587d[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Sat Oct 2 00:11:53 2021 +0530
+
+    issue solved
+
+[33mcommit 0040b7d5bfbf55e41e8872f2d9e10b6dafe2e390[m
+Merge: bbea6c2 7554657
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:10:48 2021 +0530
+
+    Merge pull request #21 from aluvaja/main
+    
+    issue solved #11
+
+[33mcommit bbea6c28579c81658bf0d33b4f4bc383faf63429[m
+Merge: 4417d82 88eaead
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:07:56 2021 +0530
+
+    Merge pull request #20 from saptarshisarkar20/main
+    
+    accept this #11
+
+[33mcommit 755465732aa1f8006eb2fa813c3207bd3e4f2dfa[m
+Author: change the world <69216051+aluvaja@users.noreply.github.com>
+Date:   Sat Oct 2 00:07:56 2021 +0530
+
+    issue solved
+
+[33mcommit 88eaead83580d55d8fdc8b565c8b32645376362b[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Sat Oct 2 00:03:46 2021 +0530
+
+    Update Longest-Substring-Without-Repeating-Characters.cpp
+
+[33mcommit a0c8b9ccbb2ff249423c191572bfe6380c90db95[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Sat Oct 2 00:03:18 2021 +0530
+
+    Update Longest Substring Without Repeating Characters.cpp
+
+[33mcommit 4417d820bc443e32da2ed8a20d1f9db0ba32b6ac[m
+Merge: 6d2985f 6e0f225
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:02:24 2021 +0530
+
+    Merge pull request #19 from saptarshisarkar20/main
+    
+    please merge
+
+[33mcommit 6d2985fde997924fbdfb7150715e0cfe708b1f05[m
+Merge: dab94b6 4d4dbbe
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Sat Oct 2 00:00:40 2021 +0530
+
+    Merge pull request #17 from poojaagrawal134/main
+    
+    Longest Substring Without Repeating Characters
+
+[33mcommit 6e0f225e7ee2e4b69e651088f7d94c641fdbdd18[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 23:59:55 2021 +0530
+
+    solved issue #10
+
+[33mcommit ee3e2f0bc630e21eb8e9f92fd3c117587d9c5312[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 23:55:47 2021 +0530
+
+    solved issue#11
+
+[33mcommit dab94b65c9ccfd511c5bbe484b3bc6e0ff015112[m
+Merge: d84eeaf a9ffaec
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 23:54:48 2021 +0530
+
+    Merge pull request #18 from Cronus1007/prob-3
+    
+    SHROUTE added
+
+[33mcommit c70530b443316fc7f03326ecffc6ab7ab208a589[m
+Merge: 753df67 d84eeaf
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 23:54:47 2021 +0530
+
+    Merge branch 'sayak2k1maruti:main' into main
+
+[33mcommit 753df67ef384d8a351b0e90f313ef56ea88171e9[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 23:51:53 2021 +0530
+
+    issue solved #11
+
+[33mcommit db43d31aa33f89b1b41233069fc689ab8525fbec[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 23:50:35 2021 +0530
+
+    issue solved
+
+[33mcommit a9ffaec649122861f3b5b905edeafdeaf3c4c2e6[m
+Author: Cronus1007 <lit2019058@iiitl.ac.in>
+Date:   Fri Oct 1 21:35:34 2021 +0530
+
+    message
+
+[33mcommit 4d4dbbe391a0019663576ffdc027280ecbc00d2b[m
+Author: pooja agrawal <pooja.agrawal@austere.systems>
+Date:   Fri Oct 1 21:26:50 2021 +0530
+
+    Longest Substring Without Repeating Characters
+
+[33mcommit d84eeafa077522d0b5c21406efb7244a2ecdc3f1[m
+Merge: 7a42beb 44a8203
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 21:22:56 2021 +0530
+
+    Merge pull request #16 from sayak01/main
+    
+    Edited  ./CP/README.md ISSUE #3
+
+[33mcommit 44a8203bb5961aad4134e38a12bfedc637ea448d[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 21:19:42 2021 +0530
+
+    Update README.md
+
+[33mcommit e2663492de4f130ad6622365c6f4673267a75ed3[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 21:18:24 2021 +0530
+
+    Edited  ./CP/README.md file ISSUE #3
+    
+    Edited it according to how many problems are solved till now
+
+[33mcommit 7a42beb8e2b85ea2d8da9a619c9974feef50e487[m
+Merge: c17dbaf e7fc568
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 21:09:59 2021 +0530
+
+    Merge pull request #8 from iamssss/main
+    
+    write a commit msg here
+
+[33mcommit c17dbaf845b00861bc9a9a86629d82848b8421df[m
+Merge: acd30c6 0b82924
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 21:09:36 2021 +0530
+
+    Merge pull request #9 from Cronus1007/prob-2
+    
+    Partition to K Equal Sum Subsets solved
+
+[33mcommit acd30c6f0b374cb86be5bf1df8fc8af69c6ca109[m
+Merge: 63a4cec 5db309c
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 21:09:10 2021 +0530
+
+    Merge pull request #15 from sayak01/main
+    
+    Solution for Partition to K Equal Sum Subsets #7
+
+[33mcommit 63a4cecf1fe4a063dc22a714c246709e583e1a0c[m
+Merge: ebf85bf 3660e24
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 20:56:30 2021 +0530
+
+    Merge pull request #12 from SugatoBagchi/issue-sugato
+    
+    Added solution for issue number #10
+
+[33mcommit 5db309c7bbf5ff0867b74c227a33f3ae0c3aa8b4[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 20:54:01 2021 +0530
+
+    Solution for Partition to K Equal Sum Subsets #7
+    
+    Write a Function in PYTHON to achieve below functionality (Partition to K Equal Sum Subsets)
+
+[33mcommit ebf85bf0dc8406955f5f5670397534bd6311a842[m
+Merge: 75f9959 4117b03
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 20:48:17 2021 +0530
+
+    Merge pull request #14 from sayak01/main
+    
+    Solved issue #10
+
+[33mcommit 4117b030bb3701651eb5f89290474f8f599c2f6d[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 20:45:22 2021 +0530
+
+    Solve issue #1
+    
+    Write a Function in C++ to achieve below functionality (DAREA)
+
+[33mcommit 9acf957f2c4f94a6271a1395448e7af4a38a8d76[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 20:42:38 2021 +0530
+
+    Solved issue #10
+
+[33mcommit 75f99594abe2700b39efb31081eaedbc98be9ece[m
+Merge: a46fa30 43cf7c4
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 20:30:05 2021 +0530
+
+    Merge pull request #13 from sayak01/main
+    
+    Solved issue #11
+
+[33mcommit 43cf7c443cdfdbd8968cc2626e420496f3c09619[m
+Author: sayak01 <56298860+sayak01@users.noreply.github.com>
+Date:   Fri Oct 1 20:26:43 2021 +0530
+
+    Solved issue #11
+    
+    Write a Code in C++ to achieve below functionality (Longest Substring Without Repeating Characters)
+
+[33mcommit 3660e24fc3432e831e10561c6f176b91d3a95191[m
+Author: Sugato Bagchi <sugato.bagchi.of@gmail.com>
+Date:   Fri Oct 1 19:53:37 2021 +0530
+
+    Moved file to right foldeR
+
+[33mcommit a46fa306caf8669f14d6bcd06056def843f343ea[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 19:53:20 2021 +0530
+
+    Longest Substring Without Repeating Characters
+
+[33mcommit da137de8c37080f1b72e3005baff31a5b87ddd5d[m
+Author: Sugato Bagchi <sugato.bagchi.of@gmail.com>
+Date:   Fri Oct 1 19:51:20 2021 +0530
+
+    Added solution
+
+[33mcommit 5b9c144eee499fd5a88e0231baf44085ea20588d[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 19:46:24 2021 +0530
+
+    Create README.md
+
+[33mcommit 5a53aec80812454ae8835c412b1f3e3c451e5c75[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 19:43:04 2021 +0530
+
+    Create README.md
+
+[33mcommit 0b829246ecef59b5e783521ad6a4f1c965b93312[m
+Author: Cronus1007 <lit2019058@iiitl.ac.in>
+Date:   Fri Oct 1 19:24:51 2021 +0530
+
+    Partition to K Equal Sum Subsets solved
+
+[33mcommit e7fc568eeb3e9c14c033c49dc3110d27674a9d2d[m
+Author: iamssss <91740927+iamssss@users.noreply.github.com>
+Date:   Fri Oct 1 19:19:31 2021 +0530
+
+    write a commit msg here
+    
+    write description
+
+[33mcommit b02be50757ce91a2aad9e6cd0f05cb9f86e374a8[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 19:18:43 2021 +0530
+
+    Update README.md
+
+[33mcommit 6b4993ab83601fb32203c883a7250936198f7984[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 19:16:41 2021 +0530
+
+    Partition to K Equal Sum Subsets
+
+[33mcommit b051c2c8aa9e226e1a7728200870a47684028078[m
+Merge: 04ee1e0 cab099b
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 19:12:11 2021 +0530
+
+    Merge pull request #2 from Cronus1007/DAREA
+    
+    DAREA solved
+
+[33mcommit 04ee1e0d4f199d9720a087c955b08daecf4d2d5c[m
+Merge: 92ef799 b683255
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 19:02:44 2021 +0530
+
+    Merge pull request #5 from saptarshisarkar20/main
+    
+    solved this issue #1
+
+[33mcommit b6832553b21945aa0cb21e860595518a80067a4a[m
+Author: Saptarshi Sarkar <67330269+saptarshisarkar20@users.noreply.github.com>
+Date:   Fri Oct 1 18:49:49 2021 +0530
+
+    solved this issue #1
+
+[33mcommit cab099b4116865552b7ef8b0704cff50f866474f[m
+Author: Cronus1007 <lit2019058@iiitl.ac.in>
+Date:   Fri Oct 1 18:36:40 2021 +0530
+
+    DAREA solved
+
+[33mcommit 92ef7995f8270ac05a17cbb030ee52cd6686a627[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 18:36:01 2021 +0530
+
+    Update README.md
+
+[33mcommit 1eed8616eab9a6bf30e02a6d3b1f385b6a1baf0f[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 18:29:00 2021 +0530
+
+    Create README.md
+
+[33mcommit ddd69dbd595cba03b744b9edaae3790c5b99f464[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 18:21:07 2021 +0530
+
+    DAREA_Changed
+
+[33mcommit 868c4f297db6dd604485fe9eaad1366acb117562[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 18:20:17 2021 +0530
+
+    DAREA
+
+[33mcommit d2701ecffe5d1058b247be42830371511058a631[m
+Author: Sayak <sayakdas2k1@gmail.com>
+Date:   Fri Oct 1 17:47:44 2021 +0530
+
+    2021-10-02
+
+[33mcommit 7758ec5ae1b6d8fe786852f626b62cd71c5bc05d[m
+Author: Sayak <64575577+sayak2k1maruti@users.noreply.github.com>
+Date:   Fri Oct 1 17:36:47 2021 +0530
+
+    Initial commit
